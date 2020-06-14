@@ -1,0 +1,111 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders top repos tab 1`] = `
+<DocumentFragment>
+  <div
+    class="repos-page"
+  >
+    <div>
+      Menu: 
+      <div>
+        Menu Item:  Top Repos
+      </div>
+      <div>
+        Menu Item:  Starred by me (LenGth) 
+        <div>
+          Dropdown: 
+          <div>
+            Font Awesome Icon
+          </div>
+        </div>
+      </div>
+    </div>
+    <div>
+      Top Repos: 
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`renders top repos tab 2`] = `
+<DocumentFragment>
+  <div>
+    Font Awesome Icon
+  </div>
+</DocumentFragment>
+`;
+
+exports[`renders top repos tab 3`] = `
+<DocumentFragment>
+  <div>
+    Font Awesome Icon
+  </div>
+</DocumentFragment>
+`;
+
+exports[`renders top repos tab 4`] = `
+<DocumentFragment>
+  <div>
+    Fa Star
+  </div>
+</DocumentFragment>
+`;
+
+exports[`renders top repos tab 5`] = `
+<DocumentFragment>
+  <div>
+    Fa User
+  </div>
+</DocumentFragment>
+`;
+
+exports[`renders top repos tab 6`] = `
+<DocumentFragment>
+  <div>
+    Input: 
+  </div>
+</DocumentFragment>
+`;
+
+exports[`renders top repos tab 7`] = `
+<DocumentFragment>
+  <div>
+    Font Awesome Icon
+  </div>
+</DocumentFragment>
+`;
+
+exports[`renders top repos tab 8`] = `
+<DocumentFragment>
+  <div>
+    Fa Search
+  </div>
+</DocumentFragment>
+`;
+
+exports[`renders top starred tab 1`] = `
+<DocumentFragment>
+  <div
+    class="repos-page"
+  >
+    <div>
+      Menu: 
+      <div>
+        Menu Item:  Top Repos
+      </div>
+      <div>
+        Menu Item:  Starred by me (LenGth) 
+        <div>
+          Dropdown: 
+          <div>
+            Font Awesome Icon
+          </div>
+        </div>
+      </div>
+    </div>
+    <div>
+      Starred Repos: 
+    </div>
+  </div>
+</DocumentFragment>
+`;

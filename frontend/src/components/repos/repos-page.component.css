@@ -1,0 +1,25 @@
+.repos-page {
+  padding: 16px;
+}
+
+a.repos-star-repo-icon {
+  display: inline-block;
+}
+a.repos-star-repo-icon:not(:hover) {
+  transform: scale(0.85);
+}
+
+a.repos-star-repo-link:not(:hover) > svg {
+  visibility: hidden;;
+}
+a.repos-star-repo-link:not(:hover) {
+  color: black;
+}
+.repos-name-header-ico {
+  transform: scale(0.7);
+}
+
+.ant-table-filter-dropdown .ant-dropdown-menu {
+  max-height: 30vh !important;
+}
+

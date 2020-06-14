@@ -1,0 +1,15 @@
+.starred-repos-search-message {
+  padding: 16px;
+  font-size: 90%;
+  font-weight: bold;
+}
+
+.starred-repos-clear-search:hover {
+  transform: scale(1.25);
+  color: #d90000;
+}
+
+.starred-repos-clear-search {
+  display: inline-block;
+  color: black;
+}
